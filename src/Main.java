@@ -78,7 +78,7 @@ public class Main {
             case 3, 4, 5 -> System.out.println("Это весенний месяц.");
             case 6, 7, 8 -> System.out.println("Это летний месяц.");
             case 9, 10, 11 -> System.out.println("Это осенний месяц.");
-            default -> System.out.println("Нет месяца с таким номером.");
+            default -> System.out.println("Нет такого месяца.");
         }
     }
 }
